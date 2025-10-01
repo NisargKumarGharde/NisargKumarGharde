@@ -1,11 +1,13 @@
 ### Hi there 👋
 
- # I'm Nisarg, a freshmen in this tech world
+ # I'm Nisarg, aspiring to become a Data Scientist & Software Developer
 - Pronouns: 🧑 He/Him
  ### A bit about me: 
- *🧑‍🎓I'm currently pursuing BSc in Computer Science from IIT Patna, also pursuing BS in Data Science from IIT Madras
- 
+ *🧑‍🎓Currently pursuing dual B.Sc. degrees: Data Science (IIT Madras) & Computer Science/Data Analytics (IIT Patna).  
+Driven by curiosity, I continually expand my skills in AI, machine learning, programming, and other related technologies.
+
  🌱 I’m learning to code and these are the following skills & tools :
+
 
 🚀 Programming Languages : 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +31,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Let's connect on 🤝 : https://www.linkedin.com/in/nisargkumargharde
+## 🎖️ Certifications & Recognitions
 
-- 📫 How to reach me: 
-      knowNisarg4work@outlook.com
+- Guvi Data Science (HCL GUVI, Sep 2025): Python, Data Analysis, MySQL, Data Viz, ML, DL, NLP
+- LFS101 Introduction to Linux (Linux Foundation, Sep 2025)
+- MongoDB Developer Paths (Python, Java, C#)
+- DataCamp: SQL Fundamentals, Data Literacy
+- AI Fluency for Students (Anthropic, Sep 2025): Responsible AI, Prompt Engineering, 4Ds
+
+(*some more are there which are available to see at LinkedIn)
+
+## 🤝 Open to Work
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/nisargkumargharde)
+&
+Email me at: knowNisarg4work@outlook.com
