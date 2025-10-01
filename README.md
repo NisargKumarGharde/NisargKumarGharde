@@ -7,5 +7,7 @@
  
  🌱 I’m learning to code and get better at it ...
 
+Let's connect on 🤝 : https://www.linkedin.com/in/nisargkumargharde
+
 - 📫 How to reach me: 
       knowNisarg4work@outlook.com
