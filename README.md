@@ -3,15 +3,13 @@
  # I'm Nisarg, aspiring to become a Data Scientist & Software Developer
 - Pronouns: 🧑 He/Him
  ### A bit about me: 
- *🧑‍🎓Currently pursuing dual B.Sc. degrees: Data Science (IIT Madras) & Computer Science/Data Analytics (IIT Patna).  
-Driven by curiosity, I continually expand my skills in AI, machine learning, programming, and other related technologies.
+- 🧑‍🎓Currently pursuing dual B.Sc. degrees: Data Science (IIT Madras) & Computer Science/Data Analytics (IIT Patna).  
+   Driven by curiosity, I continually expand my skills in AI, Machine Learning, programming, and other related technologies.
 
- 🌱 I’m learning to code and these are the following skills & tools :
-
+#### Aspiring software engineer dedicated to building scalable solutions. I am actively seeking opportunities to apply my proficiency in the following technologies within a professional development environment:
 
 🚀 Programming Languages : 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 📊 Data Science & Machine Learning : 
@@ -35,13 +33,13 @@ Driven by curiosity, I continually expand my skills in AI, machine learning, pro
 
 - Guvi Data Science (HCL GUVI, Sep 2025): Python, Data Analysis, MySQL, Data Viz, ML, DL, NLP
 - LFS101 Introduction to Linux (Linux Foundation, Sep 2025)
-- MongoDB Developer Paths (Python, Java, C#)
+- MongoDB Developer Paths (Python, Java)
 - DataCamp: SQL Fundamentals, Data Literacy
 - AI Fluency for Students (Anthropic, Sep 2025): Responsible AI, Prompt Engineering, 4Ds
 
 (*some more are there which are available to see at LinkedIn)
 
-## 🤝 Open to Work
+## 🤝 Open to Work & Contribute
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/nisargkumargharde)
 &
-Email me at: knowNisarg4work@outlook.com
+Email me at: nisarg.gharde@gmail.com
