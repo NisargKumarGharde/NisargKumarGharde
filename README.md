@@ -71,15 +71,19 @@ I am actively seeking **Internship or Entry-Level roles** in:
 ### 🎮 [Marvel Snap Real-Time Telemetry Pipeline](https://github.com/NisargKumarGharde/marvel-snap-real-time-telemetry-pipeline)
 *Bridging Computer Science and Data Science to handle high-velocity data streams.*
 
-> **Architecture:** Engineered a fault-tolerant distributed data pipeline to simulate, ingest, and analyze live gaming telemetry.<br>
-> **Tech Stack:** Docker • Apache Kafka • Apache Cassandra • FastAPI • Python<br>
+> **Architecture:** Engineered a fault-tolerant distributed data pipeline to simulate, ingest, and analyze live gaming telemetry.
+> 
+> **Tech Stack:** Docker • Apache Kafka • Apache Cassandra • FastAPI • Python
+> 
 > **🏆 Impact:** Buffered high-throughput gaming telemetry with **zero data loss** and served live gameplay analytics with **sub-second latency**.
 
 ### 📊 [Telecom Operator Customer Churn Predictor](https://github.com/NisargKumarGharde/Telecom-Operator-Customer-Churn-Predictor)
 *Predictive Modeling & Machine Learning for Business Retention.*
 
-> **Focus:** End-to-end Machine Learning lifecycle from data wrangling to model evaluation.<br>
-> **Tech Stack:** Python • Scikit-Learn • Pandas • Matplotlib<br>
+> **Focus:** End-to-end Machine Learning lifecycle from data wrangling to model evaluation.
+> 
+> **Tech Stack:** Python • Scikit-Learn • Pandas • Matplotlib
+> 
 > **🏆 Impact:** Developed and trained an ML model to predict customer churn, providing highly actionable insights for business retention strategies.
 
 ---
