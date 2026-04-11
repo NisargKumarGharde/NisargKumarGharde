@@ -90,10 +90,16 @@ I am actively seeking **Internship or Entry-Level roles** in:
 
 ## 📚 Continuous Learning & Certifications
 I believe in the "1% Rule"—compounding knowledge daily. Here is what I've been mastering recently:
-* **Graph Databases:** Neo4j Certified Professional
-* **API Architecture:** Apollo Certified Graph Developer (Associate) - *GraphQL*
-* **DevSecOps:** GitLab Fundamentals 
-* **Cloud & Containers:** Learning Docker (Docker, Inc.) & Intro to Modern Data Engineering with Snowflake
-* **Data Science Core:** Guvi Data Science (Python, NLP, Deep Learning, MySQL)
+
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" height="24" align="center" /> &nbsp; [**Neo4j Certified Professional**](https://graphacademy.neo4j.com/c/5c5a164d-d2be-45a5-9f0f-7b6a2c4d7f60/)
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="24" align="center" /> &nbsp; [**Apollo Certified Graph Developer - Associate**](https://www.apollographql.com/tutorials/certifications/8cec45eb-7eca-496b-bb2c-56f2df112502)
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="24" align="center" /> &nbsp; [**GitLab Fundamentals**](https://ti-user-certificates.s3.amazonaws.com/72109ec1-52dd-4663-9df4-754a8a1d0bff/20063aae-d93c-4141-acb3-24122dc196ea-nisarg-gharde-22d7d85a-64ee-4772-b454-b7821216d4b4-certificate.pdf)
+* <img src="https://cdn.simpleicons.org/snowflake" height="24" align="center" /> &nbsp; [**Intro to Snowflake for Devs, Data Scientists, Data Scientists, Data Engineers**](https://www.linkedin.com/learning/certificates/e9a101a098de38f55f030e56b7f4a8e714909eb3f85d623daee53101d69c2072?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BElYUfoTFRR%2BWajMjtQx0Qg%3D%3D)
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="24" align="center" /> &nbsp; [**Learning Docker**](https://www.linkedin.com/learning/certificates/72d0e94758594f17ca95d48ea596fb492d5d42cfb1222900d766bf6aaace22d1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BElYUfoTFRR%2BWajMjtQx0Qg%3D%3D)
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="24" align="center" /> &nbsp; [**Introduction to Linux**](https://www.credly.com/badges/2627782d-88da-4f41-b330-fed937b2d089)
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="24" align="center" /> &nbsp; [**Get started with Redis**](https://cdn.flockjay.com/fwcpgkk9nvg6lf-certificates-14q8m6gilfwltm.pdf?Expires=1775922067&Signature=IAwSOkaL1fBlKqa9cOuSrURE4dgxLGXXYAtf-bAn3t7tXkbMHuBGd8Ww1PlsRJOwUhsg~R57ftbcDWKMAz4bDQsTc11hxF6Wjwpngx9AG~MwuMXKTyHzSrAzUDJS~ILGrECo0~O4jfBo3XfZVTsJsbL2ssqwzMMLuzScthZxocEiKv9aQx5p9pGxCyEjz4rX7OBt3H5V4Ic4jyg0b55eP4UzT5EOQCVa~xKHYJbHnyedy3K33Hq3S0kgwrQ9pExrgk-ZY0PGJi8UCVjjnKBZdSLg9J1RUEuFUluN4lIRAkN9WwmRapRI0ekjjL8ksOjho6wldKVR5lSYEb2jmerDMg__&Key-Pair-Id=K2Q8P6RBFZ27L1)
+* <img src="https://skillicons.dev/icons?i=github" height="24" align="center" /> &nbsp; [**GitHub Foundations**](YOUR_LINK_HERE)
+* <img src="https://cdn.simpleicons.org/databricks" height="24" align="center" /> &nbsp; [**Databricks Fundamentals**](https://images.credential.net/embed/tapmc2rs_1768399835314.png)
+* <img src="https://github.com/dbt-labs.png" height="24" style="border-radius:5px;" align="center" /> &nbsp; [**dbt Fundamentals**](https://credentials.getdbt.com/eacfc776-c291-4fee-9ee4-b99c8466c7ed#acc.xjwFOI98)
 
 ---
