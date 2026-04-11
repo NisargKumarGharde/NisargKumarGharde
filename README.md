@@ -50,7 +50,7 @@ I am actively seeking **Internship or Entry-Level roles** in:
 ### Tools & Platforms
 <p align="left">
   <img src="https://cdn.simpleicons.org/git" height="48" alt="Git" title="Git" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/white" height="48" alt="GitHub" title="GitHub" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" title="GitHub" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VS Code" title="VS Code" />
 </p>
 
