@@ -1,47 +1,91 @@
-### Hi there 👋
+# Hi there, I'm Nisarg Gharde 👋
 
- # I'm Nisarg, aspiring to become a Data Scientist & Software Developer
-- Pronouns: 🧑 He/Him
- ### A bit about me: 
-- 🧑‍🎓Currently pursuing dual B.Sc. degrees: Data Science (IIT Madras) & Computer Science/Data Analytics (IIT Patna).  
-   Driven by curiosity, I continually expand my skills in AI, Machine Learning, programming, and other related technologies.
+**Data Science & Backend Developer | System-First Engineer**
 
-#### Aspiring software engineer dedicated to building scalable solutions. I am actively seeking opportunities to apply my proficiency in the following technologies within a professional development environment:
+I thrive at the intersection of **High-Performance Backend Architecture** and **Scalable Data Science**. With a rigorous academic foundation from **IIT Patna (Computer Science)** and **IIT Madras (Data Science)**, I build software that doesn't just work—it scales. 
 
-🚀 Programming Languages : 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScipt](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
+Whether it’s architecting fault-tolerant data pipelines or optimizing sub-second query latency, I am obsessed with the "under-the-hood" engineering that powers the modern web. I treat every boilerplate as a launchpad to master new environments—moving from "onboarding" to "contributing" in record time.
 
-📊 Data Science & Machine Learning : 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/nisargkumargharde/) | ✉️ [nisarg.gharde@gmail.com](mailto:nisarg.gharde@gmail.com)
 
-🗄️ Databases : 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-🛠️ Tools & Platforms : 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🎯 What I'm Looking For
+I am actively seeking **Internship or Entry-Level roles** in:
+* Data Engineering
+* Backend Development
+* AI / Machine Learning
+* Cloud Architecture
 
-## 🎖️ Certifications & Recognitions
+---
 
-- Guvi Data Science (HCL GUVI, Sep 2025): Python, Data Analysis, MySQL, Data Viz, ML, DL, NLP
-- LFS101 Introduction to Linux (Linux Foundation, Sep 2025)
-- MongoDB Developer Paths (Python, Java)
-- DataCamp: SQL Fundamentals, Data Literacy
-- AI Fluency for Students (Anthropic, Sep 2025): Responsible AI, Prompt Engineering, 4Ds
+## 💻 Technical Arsenal
 
-(*some more are there which are available to see at LinkedIn)
+*Recruiters/Developers: Here is the stack I use to transform complex theoretical models into production-ready distributed systems.*
 
-## 🤝 Open to Work & Contribute
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/nisargkumargharde)
-&
-Email me at: nisarg.gharde@gmail.com
+### Languages
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python" height="48" alt="Python" title="Python" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" height="48" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java" title="Java" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/go" height="48" alt="Go" title="Go" />
+</p>
+
+### Databases (SQL/NoSQL/Graph)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/postgresql" height="48" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql" height="48" alt="MySQL" title="MySQL" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb" height="48" alt="MongoDB" title="MongoDB" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/graphql" height="48" alt="GraphQL" title="GraphQL" />
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <img src="https://cdn.simpleicons.org/docker" height="48" alt="Docker" title="Docker" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux" height="48" alt="Linux" title="Linux" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gitlab" height="48" alt="GitLab" title="GitLab" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redis" height="48" alt="Redis" title="Redis" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://cdn.simpleicons.org/git" height="48" alt="Git" title="Git" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/white" height="48" alt="GitHub" title="GitHub" /> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VS Code" title="VS Code" />
+</p>
+
+### Data Engineering & Big Data
+<p align="left">
+  <img src="https://cdn.simpleicons.org/snowflake" height="48" alt="Snowflake" title="Snowflake" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks" height="48" alt="Databricks" title="Databricks" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachekafka" height="48" alt="Kafka" title="Apache Kafka" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachecassandra" height="48" alt="Cassandra" title="Apache Cassandra" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/neo4j" height="48" alt="Neo4j" title="Neo4j" /> &nbsp;&nbsp;
+  <img src="https://github.com/dbt-labs.png" height="48" alt="dbt" title="dbt" style="border-radius:10px;"/> &nbsp;&nbsp;
+</p>
+
+---
+
+## 🚀 Featured Engineering Projects
+
+### 🎮 [Marvel Snap Real-Time Telemetry Pipeline](https://github.com/NisargKumarGharde/marvel-snap-real-time-telemetry-pipeline)
+*Bridging Computer Science and Data Science to handle high-velocity data streams.*
+* **Architecture:** Engineered a fault-tolerant distributed data pipeline to simulate, ingest, and analyze live gaming telemetry.
+* **Tech Stack:** Docker, Apache Kafka, Apache Cassandra, FastAPI, Python, Pandas.
+* **Impact:** Buffered high-throughput gaming telemetry with zero data loss and served live gameplay analytics with sub-second latency.
+
+### 📊 [Telecom Operator Customer Churn Predictor](https://github.com/NisargKumarGharde/Telecom-Operator-Customer-Churn-Predictor)
+* **Focus:** Predictive Modeling & Machine Learning.
+* **Impact:** Developed and trained an ML model to predict customer churn, providing actionable insights for retention strategies.
+
+---
+
+## 📚 Continuous Learning & Certifications
+I believe in the "1% Rule"—compounding knowledge daily. Here is what I've been mastering recently:
+* **Graph Databases:** Neo4j Certified Professional
+* **API Architecture:** Apollo Certified Graph Developer (Associate) - *GraphQL*
+* **DevSecOps:** GitLab Fundamentals 
+* **Cloud & Containers:** Learning Docker (Docker, Inc.) & Intro to Modern Data Engineering with Snowflake
+* **Data Science Core:** Guvi Data Science (Python, NLP, Deep Learning, MySQL)
+
+---
