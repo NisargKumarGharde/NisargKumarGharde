@@ -44,7 +44,7 @@ I am actively seeking **Internship or Entry-Level roles** in:
   <img src="https://cdn.simpleicons.org/docker" height="48" alt="Docker" title="Docker" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="48" alt="Linux" title="Linux" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="48" alt="GitLab" title="GitLab" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="48" alt="Redis" title="Redis" />
+  <img src="https://cdn.simpleicons.org/redis" height="48" alt="Redis" title="Redis" />
 </p>
 
 ### Tools & Platforms
