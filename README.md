@@ -12,8 +12,9 @@ Whether it’s architecting fault-tolerant data pipelines or optimizing sub-seco
 
 ## 🎯 What I'm Looking For
 I am actively seeking **Internship or Entry-Level roles** in:
-* Data Engineering
 * Backend Development
+* Software Development
+* Data Engineering
 * AI / Machine Learning
 * Cloud Architecture
 
