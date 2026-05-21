@@ -32,7 +32,7 @@ I am actively seeking **Internship or Entry-Level roles** in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="48" alt="Go" title="Go" />
 </p>
 
-### Databases (SQL/NoSQL/Graph/Vector)
+### Databases (SQL/NoSQL/Vector/Graph)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48" alt="MySQL" title="MySQL" /> &nbsp;&nbsp;
