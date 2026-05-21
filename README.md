@@ -69,7 +69,7 @@ I am actively seeking **Internship or Entry-Level roles** in:
 
 ## 🚀 Featured Engineering Projects
 
-### 🎮 [Marvel Snap Real-Time Telemetry Pipeline](https://github.com/NisargKumarGharde/marvel-snap-real-time-telemetry-pipeline)
+### <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/0c/25/ba0c2518-1598-ce89-03e6-ee2a12997ed4/Placeholder.mill/400x400bb-75.webp" height="40" align="absmiddle" /> [Marvel Snap Real-Time Telemetry Pipeline](https://github.com/NisargKumarGharde/marvel-snap-real-time-telemetry-pipeline)
 *Bridging Computer Science and Data Science to handle high-velocity data streams.*
 
 > **Architecture:** Engineered a fault-tolerant distributed data pipeline to simulate, ingest, and analyze live gaming telemetry.
