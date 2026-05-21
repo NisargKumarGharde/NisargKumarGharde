@@ -88,6 +88,15 @@ I am actively seeking **Internship or Entry-Level roles** in:
 > 
 > **🏆 Impact:** Developed and trained an ML model to predict customer churn, providing highly actionable insights for business retention strategies.
 
+### 🛡️ [NexaAudit: AI-Powered Financial Fraud Detection](https://github.com/NisargKumarGharde/nexaaudit)
+*An AI-native financial auditing engine to automate invoice extraction and detect duplicate fraud.*
+
+> **Architecture:** Orchestrated a highly concurrent RAG pipeline utilizing multimodal AI for unstructured data extraction and vector database similarity search for real-time semantic duplicate detection.
+>
+> **Tech Stack:** Go • Supabase (PostgreSQL) • Pinecone • Google Gemini
+>
+> **🏆 Impact:** Automated the processing of unstructured financial documents and flagged fraudulent duplicate invoice submissions with **99%+ accuracy**.
+
 ---
 
 ## 📚 Continuous Learning & Certifications
