@@ -84,7 +84,7 @@ I am actively seeking **Internship or Entry-Level roles** in:
 ### 📊 [Telecom Operator Customer Churn Predictor](https://github.com/NisargKumarGharde/Telecom-Operator-Customer-Churn-Predictor)
 *Predictive Modeling & Machine Learning for Business Retention.*
 
-> **Focus:** End-to-end Machine Learning lifecycle from data wrangling to model evaluation.
+> **Architecture:** Engineered a predictive machine learning pipeline wrapped in an automated CLI utility for seamless, environment-agnostic dataset evaluation.
 > 
 > **Tech Stack:** Python • Scikit-Learn • Pandas • Matplotlib
 > 
