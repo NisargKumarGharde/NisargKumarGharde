@@ -99,15 +99,6 @@ I am actively seeking **Internship or Entry-Level roles** in:
 >
 > **🏆 Impact:** Delivered production-style churn risk scoring without provisioning a single server, converting raw prediction probabilities into actionable high-risk customer cohorts for retention teams.
 
-### 📊 [Telecom Operator Customer Churn Predictor](https://github.com/NisargKumarGharde/Telecom-Operator-Customer-Churn-Predictor)
-*Predictive Modeling & Machine Learning for Business Retention.*
-
-> **Architecture:** Engineered a predictive machine learning pipeline wrapped in an automated CLI utility for seamless, environment-agnostic dataset evaluation.
-> 
-> **Tech Stack:** Python • Scikit-Learn • Pandas • Matplotlib
-> 
-> **🏆 Impact:** Developed and trained an ML model to predict customer churn, providing highly actionable insights for business retention strategies.
-
 ---
 
 ## 📚 Continuous Learning & Certifications
