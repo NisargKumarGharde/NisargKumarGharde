@@ -66,6 +66,7 @@ I am actively seeking **Internship or Entry-Level roles** in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="48" alt="Kafka" title="Apache Kafka" /> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apachecassandra" height="48" alt="Cassandra" title="Apache Cassandra" /> &nbsp;&nbsp;
   <img src="https://github.com/dbt-labs.png" height="48" alt="dbt" title="dbt" style="border-radius:10px;" /> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/dbt.svg" height="48" alt="dbt" title="dbt" />
 </p>
 
 ---
