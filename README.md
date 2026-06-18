@@ -37,7 +37,7 @@ I am actively seeking **Internship or Entry-Level roles** in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48" alt="MySQL" title="MySQL" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" title="MongoDB" /> &nbsp;&nbsp;
-  <img src="https://github.com/pinecone-io.png" height="48" alt="Pinecone" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/NisargKumarGharde/NisargKumarGharde/main/pinecone-icon.png" height="48" alt="Pinecone" title="Pinecone" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" height="48" alt="Neo4j" title="Neo4j" />
 </p>
 
@@ -65,8 +65,7 @@ I am actively seeking **Internship or Entry-Level roles** in:
   <img src="https://cdn.simpleicons.org/databricks" height="48" alt="Databricks" title="Databricks" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="48" alt="Kafka" title="Apache Kafka" /> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apachecassandra" height="48" alt="Cassandra" title="Apache Cassandra" /> &nbsp;&nbsp;
-  <img src="https://github.com/dbt-labs.png" height="48" alt="dbt" title="dbt" style="border-radius:10px;" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/dbt.svg" height="48" alt="dbt" title="dbt" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" height="48" alt="dbt" title="dbt" />
 </p>
 
 ---
