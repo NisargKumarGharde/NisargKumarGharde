@@ -26,46 +26,46 @@ I am actively seeking **Internship or Entry-Level roles** in:
 
 ### Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python" title="Python" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java" title="Java" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="48" alt="Go" title="Go" />
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python" title="Python" /></a> &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript" /></a> &nbsp;&nbsp;
+  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java" title="Java" /></a> &nbsp;&nbsp;
+  <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="48" alt="Go" title="Go" /></a>
 </p>
 
 ### Databases (SQL/NoSQL/Vector/Graph)
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48" alt="MySQL" title="MySQL" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" title="MongoDB" /> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/NisargKumarGharde/NisargKumarGharde/main/pinecone-icon.png" height="48" alt="Pinecone" title="Pinecone" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" height="48" alt="Neo4j" title="Neo4j" />
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" title="PostgreSQL" /></a> &nbsp;&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48" alt="MySQL" title="MySQL" /></a> &nbsp;&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" title="MongoDB" /></a> &nbsp;&nbsp;
+  <a href="https://www.pinecone.io/"><img src="https://raw.githubusercontent.com/NisargKumarGharde/NisargKumarGharde/main/pinecone-icon.png" height="48" alt="Pinecone" title="Pinecone" /></a> &nbsp;&nbsp;
+  <a href="https://neo4j.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" height="48" alt="Neo4j" title="Neo4j" /></a>
 </p>
 
 ### Cloud & DevOps
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48" alt="Docker" title="Docker" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="48" alt="Linux" title="Linux" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="48" alt="Supabase" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="48" alt="Redis" title="Redis" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="48" alt="GitLab" title="GitLab" />
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48" alt="Docker" title="Docker" /></a> &nbsp;&nbsp;
+  <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="48" alt="Linux" title="Linux" /></a> &nbsp;&nbsp;
+  <a href="https://supabase.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="48" alt="Supabase" title="Supabase" /></a> &nbsp;&nbsp;
+  <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="48" alt="Redis" title="Redis" /></a> &nbsp;&nbsp;
+  <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="48" alt="GitLab" title="GitLab" /></a>
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git" title="Git" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" title="GitHub" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="48" alt="GraphQL" title="GraphQL" />  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="48" alt="Postman" title="Postman" />  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VS Code" title="VS Code" />  &nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git" title="Git" /></a> &nbsp;&nbsp;
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" title="GitHub" /></a> &nbsp;&nbsp;
+  <a href="https://graphql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="48" alt="GraphQL" title="GraphQL" /></a> &nbsp;&nbsp;
+  <a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="48" alt="Postman" title="Postman" /></a> &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VS Code" title="VS Code" /></a>
 </p>
 
 ### Data Engineering & Big Data
 <p align="left">
-  <img src="https://cdn.simpleicons.org/snowflake" height="48" alt="Snowflake" title="Snowflake" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/databricks" height="48" alt="Databricks" title="Databricks" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="48" alt="Kafka" title="Apache Kafka" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apachecassandra" height="48" alt="Cassandra" title="Apache Cassandra" /> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" height="48" alt="dbt" title="dbt" />
+  <a href="https://www.snowflake.com/"><img src="https://cdn.simpleicons.org/snowflake" height="48" alt="Snowflake" title="Snowflake" /></a> &nbsp;&nbsp;
+  <a href="https://www.databricks.com/"><img src="https://cdn.simpleicons.org/databricks" height="48" alt="Databricks" title="Databricks" /></a> &nbsp;&nbsp;
+  <a href="https://kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="48" alt="Kafka" title="Apache Kafka" /></a> &nbsp;&nbsp;
+  <a href="https://cassandra.apache.org/"><img src="https://cdn.simpleicons.org/apachecassandra" height="48" alt="Cassandra" title="Apache Cassandra" /></a> &nbsp;&nbsp;
+  <a href="https://www.getdbt.com/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" height="48" alt="dbt" title="dbt" /></a>
 </p>
 
 ---
