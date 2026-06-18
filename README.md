@@ -72,23 +72,6 @@ I am actively seeking **Internship or Entry-Level roles** in:
 
 ## 🚀 Featured Engineering Projects
 
-### <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/0c/25/ba0c2518-1598-ce89-03e6-ee2a12997ed4/Placeholder.mill/400x400bb-75.webp" height="32" align="absmiddle" /> [Marvel Snap Real-Time Telemetry Pipeline](https://github.com/NisargKumarGharde/marvel-snap-real-time-telemetry-pipeline)
-*Bridging Computer Science and Data Science to handle high-velocity data streams.*
-
-> **Architecture:** Engineered a fault-tolerant distributed data pipeline to simulate, ingest, and analyze live gaming telemetry.
-> 
-> **Tech Stack:** Docker • Apache Kafka • Apache Cassandra • FastAPI • Python
-> 
-> **🏆 Impact:** Buffered high-throughput gaming telemetry with **zero data loss** and served live gameplay analytics with **sub-second latency**.
-
-### 📊 [Telecom Operator Customer Churn Predictor](https://github.com/NisargKumarGharde/Telecom-Operator-Customer-Churn-Predictor)
-*Predictive Modeling & Machine Learning for Business Retention.*
-
-> **Architecture:** Engineered a predictive machine learning pipeline wrapped in an automated CLI utility for seamless, environment-agnostic dataset evaluation.
-> 
-> **Tech Stack:** Python • Scikit-Learn • Pandas • Matplotlib
-> 
-> **🏆 Impact:** Developed and trained an ML model to predict customer churn, providing highly actionable insights for business retention strategies.
 
 ### 🛡️ [NexaAudit: AI-Powered Financial Fraud Detection](https://github.com/NisargKumarGharde/nexaaudit)
 *An AI-native financial auditing engine to automate invoice extraction and detect duplicate fraud.*
@@ -98,6 +81,32 @@ I am actively seeking **Internship or Entry-Level roles** in:
 > **Tech Stack:** Go • Supabase (PostgreSQL) • Pinecone • Google Gemini
 >
 > **🏆 Impact:** Automated the processing of unstructured financial documents and flagged fraudulent duplicate invoice submissions with **99%+ accuracy**.
+
+### <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/0c/25/ba0c2518-1598-ce89-03e6-ee2a12997ed4/Placeholder.mill/400x400bb-75.webp" height="32" align="absmiddle" /> [Marvel Snap Real-Time Telemetry Pipeline](https://github.com/NisargKumarGharde/marvel-snap-real-time-telemetry-pipeline)
+*Bridging Computer Science and Data Science to handle high-velocity data streams.*
+
+> **Architecture:** Engineered a fault-tolerant distributed data pipeline to simulate, ingest, and analyze live gaming telemetry.
+> 
+> **Tech Stack:** Docker • Apache Kafka • Apache Cassandra • FastAPI • Python
+> 
+> **🏆 Impact:** Buffered high-throughput gaming telemetry with **zero data loss** and served live gameplay analytics with **sub-second latency**.
+
+### ☁️ [Smart Customer Churn Intelligence Platform (GCP)](https://github.com/NisargKumarGharde/gcp-churn-intelligence-platform)
+*Serverless data warehousing and ML, built entirely inside Google Cloud.*
+> **Architecture:** Built an end-to-end churn prediction pipeline that lives entirely inside BigQuery — SQL-based feature engineering, in-warehouse BQML model training, and automated batch inference, with results surfaced through Data Studio.
+>
+> **Tech Stack:** Google Cloud Platform • BigQuery • BigQuery ML (XGBoost) • SQL • Data Studio
+>
+> **🏆 Impact:** Delivered production-style churn risk scoring without provisioning a single server, converting raw prediction probabilities into actionable high-risk customer cohorts for retention teams.
+
+### 📊 [Telecom Operator Customer Churn Predictor](https://github.com/NisargKumarGharde/Telecom-Operator-Customer-Churn-Predictor)
+*Predictive Modeling & Machine Learning for Business Retention.*
+
+> **Architecture:** Engineered a predictive machine learning pipeline wrapped in an automated CLI utility for seamless, environment-agnostic dataset evaluation.
+> 
+> **Tech Stack:** Python • Scikit-Learn • Pandas • Matplotlib
+> 
+> **🏆 Impact:** Developed and trained an ML model to predict customer churn, providing highly actionable insights for business retention strategies.
 
 ---
 
